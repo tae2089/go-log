@@ -1,4 +1,4 @@
-module github.com/tae2089/go-log
+module github.com/tae2089/golog
 
 go 1.18
 
